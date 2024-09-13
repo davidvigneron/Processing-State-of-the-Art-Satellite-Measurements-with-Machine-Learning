@@ -1,0 +1,11 @@
+xarray
+netcdf4
+numpy>=1.26.4
+bottleneck
+scikit-learn
+torch>=2.1.1
+torch-geometric>=2.5.3
+tensorflow
+gpflow
+matplotlib
+mpl-scatter-density
